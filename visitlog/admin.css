@@ -1,0 +1,14 @@
+.trmain {border: 1px solid #666;clear: both;background: #B9C0C9;padding-top: 2em;}
+
+.trmain2 {border: 1px solid #666;clear: both;padding-top: 2em;}
+
+
+#setLocation {
+float: right;
+padding-top: 10px;
+}
+
+a:link {color:blue;}   
+a:visited {color:blue;}
+a:hover {color:red;}  
+a:active {color:green;} 
