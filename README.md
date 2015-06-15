@@ -1,13 +1,1 @@
-vms
-===
-Visitor Management System
-
-
-Documentation
-=============
-https://github.com/beauhuber/vms/wiki
-
-
-Download
-========
-https://github.com/beauhuber/vms/archive/master.zip
+Please find the new code at https://bitbucket.org/beauhuber/vms/src
